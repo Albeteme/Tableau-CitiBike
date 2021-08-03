@@ -1,11 +1,4 @@
 # Tableau-CitiBike
 
-A link to your Tableau Public workbook that includes:
-
-4-10 Total "Phenomenon" Visualizations
-2 Dashboards
-1 City Official Map
-1 Story
-
-
-A text or markdown file with your analysis on the phenomenons you uncovered from the data
+Using data from The NY Citi Bike https://www.citibikenyc.com/system-data a strory was written through visualizations and dashboards to highlight some important findings.
+The following link to a Tableau Public workbook includes a City Official Map, a Story and a brief analysis on the phenomenons uncovered from the data.
